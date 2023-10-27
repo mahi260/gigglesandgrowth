@@ -100,4 +100,9 @@ footer {
     padding: 10px;
     font-family: 'Arial', sans-serif;
 }
-
+.image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
